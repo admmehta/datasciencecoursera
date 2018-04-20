@@ -1,0 +1,16 @@
+
+create local copy of repo  
+  mkdir ~/name
+  cd to repo
+git init
+git remote add origin url
+
+cloning a repo
+git clone link
+
+add files
+git add.
+git add -u //update
+git add -A //both 
+then   git commit -m 'mssg'
+git push
